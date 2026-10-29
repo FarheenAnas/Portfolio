@@ -8,7 +8,7 @@ function closemenu() {
     sidemenu.style.right = "-200px";
 }
 /*---------------------------google form ---------------------------*/
-const scriptURL = 'https://script.google.com/macros/s/AKfycbzrQXSCc1N6-dR2z3BDtG_Aj2w_xRvtrGU42DG2uNMR7x54nXSFn_cf6g2fd-bDlR9R/exec'
+const scriptURL = 'https://docs.google.com/spreadsheets/d/1x_Y2FiPn2ITCHtIhU8k2JipF84iyKRMwhtTAkmaUJTI/edit?usp=drivesdk'
         const form = document.forms['submit-to-google-sheet']
         const msg = document.getElementById("msg")
 
